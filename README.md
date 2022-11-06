@@ -6,3 +6,13 @@
 <img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/SoutheastRegion.png" alt="Southeast Region" title="Sountheast Region">
 <img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/SouthwestRegion.png" alt="Southwest region" title="Sounth Region">
 <img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/WestRegion.png" alt="West region" title="West Region">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/map1.png" alt="Maps of Sensors" title="Sensors">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/state1.png" alt="state1" title="state1">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/state2.png" alt="state2" title="state2">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/state3.png" alt="state3" title="state3">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/trend1.png" alt="trend1" title="trend1">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/trend2.png" alt="trend2" title="trend1">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/trend3.png" alt="trend3" title="trend1">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/trend4.png" alt="trend4" title="trend1">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/trend5.png" alt="trend5" title="trend1">
+<img src="https://github.com/Wenhuan2516/Air-Quality-Indexes-and-Suicide-Rates/blob/main/trend6.png" alt="trend6" title="trend1">

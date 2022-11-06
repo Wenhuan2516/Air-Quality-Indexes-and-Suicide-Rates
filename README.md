@@ -11,7 +11,7 @@
 <img src="https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/state2.png" alt="state2" title="state2">
 <img src="https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/state3.png" alt="state3" title="state3">
 <img src="https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/trend1.png" alt="trend1" title="trend1">
-<img src=https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/trend2.png" alt="trend2" title="trend1">
+<img src= "https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/trend2.png" alt="trend2" title="trend1">
 <img src="https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/trend3.png" alt="trend3" title="trend1">
 <img src="https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/trend4.png" alt="trend4" title="trend1">
 <img src="https://github.com/Wenhuan2516/PM2.5-Analysis-From-2001-to-2020/blob/main/trend5.png" alt="trend5" title="trend1">
